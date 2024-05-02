@@ -1,4 +1,4 @@
-var chineseMessages = {
+const chineseMessages = {
   ra: {
       action: {
           add_filter: '增加检索',
@@ -6,7 +6,7 @@ var chineseMessages = {
           back: '回退',
           bulk_actions: '选中%{smart_count}项',
           cancel: '取消',
-          clear_array_input: 'Clear the list',
+          clear_array_input: '清除列表',
           clear_input_value: '清空输入',
           clone: '克隆',
           confirm: '确认',

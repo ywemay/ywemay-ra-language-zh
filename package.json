@@ -1,6 +1,6 @@
 {
   "name": "ywemay-ra-language-zh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React-admin chinese translations with some additional keys",
   "main": "src/index.js",
   "type": "module",
